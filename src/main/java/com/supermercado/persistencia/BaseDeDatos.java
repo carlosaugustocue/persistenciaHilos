@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-// Asegúrate de importar las clases para manejar los recursos y propiedades
+
 import java.io.InputStream;
 import java.util.Properties;
 
